@@ -124,8 +124,25 @@
   font-size: 1.563rem;
   margin-bottom: 66px;
 }
-.read-more{
-  top: 50%;
+.read-more {
+  color: #776C64;
+  background: #FFFFFF;
+  padding: 16px 34px;
+  letter-spacing: 0.5px;
+  font-size: 1.438rem;
+  font-weight: 800;
+  border-radius: 36px;
+  font-style: normal;
+  outline: none;
+  border: none;
+  width: 334px;
+  height: 75px;
+}
+.read-more:hover {
+  color: #fff;
+  background: #776C64;
+  transition: 0.4s;
+  cursor: pointer;
 }
 
 .description {
